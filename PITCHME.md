@@ -43,6 +43,8 @@ Give it a try
 ---
 
 ## Resources 
+* Pixel Wall Server: https://github.com/RutgersUniversityVirtualWorlds/pixelserver
+* Pixel Wall: https://github.com/RutgersUniversityVirtualWorlds/pixelwall
 * Docker Raspberry PI: https://iotbytes.wordpress.com/setting-up-docker-on-raspberry-pi-and-running-hello-world-container/
 
 
