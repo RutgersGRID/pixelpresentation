@@ -31,24 +31,17 @@ Give it a try
 ---
 ## Deployment
 * Docker for server
-(./images/docker-raspberry-pi.png)
 * Docker for client
----
-## Why is this relevant to Oryng?
 ---
 
 ## Mozilla IoT Integration?
 * Register these devices with IoT
 * Leverage the infrastructure
 * Create collaborative and physical games
-
-
 ---
-## ORYNG
-*  
-* 
-
+## Why is this relevant to Oryng?
 ---
+
 ## Resources 
 * Docker Raspberry PI: https://iotbytes.wordpress.com/setting-up-docker-on-raspberry-pi-and-running-hello-world-container/
 
